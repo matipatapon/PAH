@@ -1,0 +1,3 @@
+﻿  PAH.cpp
+C:\Foldery\Programowanie\PAH\PAH\PAH.cpp(306,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PAH.vcxproj -> C:\Foldery\Programowanie\PAH\PAH\Debug\PAH.exe
